@@ -1,4 +1,3 @@
 ## Hi there 👋
 
-
-## Profile visits: ![Visitor Count](https://profile-counter.glitch.me/H4NM/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4NM)]
