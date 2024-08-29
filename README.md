@@ -5,7 +5,7 @@
 ## Welcome to my profile! 
 Love turning ideas into code. Anything security related is always a fun project.    
   - Detection Engineering
-  - Network Forensics
+  - Windows and Network forensics
   - Pentesting
   - Webapplications, and lots more
 
